@@ -1,0 +1,50 @@
+.navbar-brand ul{
+    font-size: 16px;
+}
+
+.carousel-item img{
+    height: 510px;
+    
+}
+#img-banner img{
+    opacity: 0.4;
+}
+.menu a{
+    color:white;
+}
+
+.menu a:hover{
+   
+    color:grey;
+}
+
+.menu a.active{
+    color:white;
+}
+
+.orador{
+    text-align: center;
+}
+.orador h3{
+    margin-top: -25px;
+}
+
+#bsas{
+    color: white;
+}
+.form{
+    text-align: center;
+}
+.input{
+    border: none;
+}
+
+.footer{
+    background-color:rgb(30, 30, 54) ;
+    margin-top: 20px;
+    height: 60px;
+}
+.footer li a{
+    color:white;
+    justify-items: center;
+}
