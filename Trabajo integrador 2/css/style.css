@@ -1,0 +1,58 @@
+.navbar-brand ul{
+    font-size: 16px;
+}
+
+.carousel-item img{
+    height: 510px;
+    
+}
+#img-banner img{
+    opacity: 0.4;
+}
+.menu a{
+    color:white;
+}
+
+.menu a:hover{
+   
+    color:grey;
+}
+
+.menu a.active{
+    color:white;
+}
+
+.footer{
+    background-color:rgb(30, 30, 54) ;
+    margin-top: 20px;
+    height: 60px;
+}
+.footer li a{
+    color:white;
+    justify-items: center;
+}
+
+#card
+{
+    margin-top: 10px;
+  
+}
+
+.card-body{
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.sinborde
+{
+    border:0;
+    outline: none;
+    background-color: rgba(238, 238, 238,0);
+}
+
+#botones{
+    text-align: center;
+}
